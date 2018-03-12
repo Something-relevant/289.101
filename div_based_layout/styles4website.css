@@ -1,0 +1,30 @@
+div {outline: 1px solid red;}
+
+body
+    {
+    background-color:#5E2C05;
+    }
+
+.logoarea
+    {
+    width: 100%;
+    float:left;
+    }
+
+.logo
+    {
+    width:200px;
+    height:100px;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    }
+
+.slogan
+    {
+    width: auto;
+    }
+.menu
+    {
+    width: 100%;    
+    }
