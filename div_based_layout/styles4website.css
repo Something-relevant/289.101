@@ -2,13 +2,15 @@ div {outline: 1px solid red;}
 
 body
     {
-    background-color:#5E2C05;
+    background-color:#a06435;
     }
 
 .logoarea
     {
     width: 100%;
     float:left;
+    height: 100px;
+    padding-top: 40px;    
     }
 
 .logo
@@ -22,9 +24,14 @@ body
 
 .slogan
     {
-    width: auto;
+    width: 700px;
+    float: left;
+    height: 100px;
+    color: #fde97b;    
+        
     }
 .menu
     {
-    width: 100%;    
+    width: 100%;
+    float: left
     }
