@@ -67,20 +67,61 @@ body
   {
    max-width: 920px;
    margin: auto;
-
+   max-height: 400px;
   }
 
 .pictureone
 {
  float:left;
- width: auto; 
+ width: 360px; 
     
 }
 
 
 .About
 {
-width: auto;
+width: 400px;
 float: left;
- 
+margin-left: 30px;
+margin-top: 40px;
+font-family: sans-serif;  
+}
+
+.contentbox
+{
+margin-left: 300px;
+margin-top: 270px;
+max-width: 920px;
+max-height: 500px;
+    
+}
+
+.verticalmenu 
+{
+ max-width: 200px;
+ height: 480px;
+
+}
+
+.verticalmenu ul 
+{
+  padding: 10px;  
+}
+
+.verticalmenu li 
+{
+     border-left: 3px solid #a0e7f4;  
+     display: block;  
+     float: left;  
+     font-family: sans-serif;  
+     padding: 40px 20px;
+     margin: 10px 2px ;
+}
+
+.contenttext
+{
+ width: 500px;
+ margin-left: 250px;
+ text-align: center;
+  
 }
