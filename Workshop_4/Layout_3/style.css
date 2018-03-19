@@ -1,0 +1,51 @@
+body{
+background-color: #fafae2    
+}
+
+div{
+    outline: 1px solid;
+}
+
+.container{
+    
+    width: 920px;
+    
+    margin-left: auto;
+    
+    margin-right: auto;
+
+}
+
+.header{
+    
+    width: 920px;
+    height:220px;
+    background-color: blue;
+}
+
+
+.content{
+    height: 540px;
+    width: 920px;
+    background-color: red;
+    float: left
+}
+
+.imagebox{
+    height: 460px;
+    width: 430px;
+    float: left;
+    background-color: yellow;
+    margin-top: 20px;
+    margin-left: 20px     
+    
+
+}
+
+.footer{
+     width: 920px;
+    height:220px;
+    background-color: green;
+    float: left;
+    
+}
