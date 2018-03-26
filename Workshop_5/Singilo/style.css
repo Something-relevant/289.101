@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+    background-color: #f2f2f2;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+
+div{
+outline: 1px solid lime;
+ }
+
+.header{
+    background-color: #2D2F3B;
+    color:#FFFFFF;
+    height: 90px;
+}
+
+.Navigation{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    float: left;
+    margin-top: 35px;
+    font-size: 1.4rem;
+    }
+
+.links{
+    float: right;
+    margin-top: 40px;
+    font-size: 0.75rem;
+    color: #4b4e61;
+}
+
+.links a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+}
+
+.salmon{
+    color: #f06c64;
+}
+
+
+
+.iphonebody{
+  height:600px;   
+  background-color: #f06c64;  
+  padding: 20px 0px;
+  text-align: center;
+}
+
+.iphonebody img{
+    max-width: 780px;
+    width: 90%;
+}
